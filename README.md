@@ -1,6 +1,6 @@
 ## Hi, I´m Bruno :grey_exclamation:
 
-:computer: brult32:\
+:computer: B:\
 > :open_file_folder:
 > <code style="color : black">My published apps/games:</code><br>
 > > [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6574659259073609998)
